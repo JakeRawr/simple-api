@@ -1,2 +1,1 @@
-pair-programming-workshop
-=========================
+second half of pair-programming workshop
