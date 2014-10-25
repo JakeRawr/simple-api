@@ -1,8 +1,5 @@
 var express = require("express"),
-  app = express(),
-  bodyParser = require("body-parser");
-
-app.use(bodyParser.json());
+  app = express();
 
 app.get("/", function (req, res) {
   res.send("hello universe!");
